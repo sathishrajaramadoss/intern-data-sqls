@@ -1,2 +1,2 @@
-# plexure-data-sqls
+# intern-data-sqls
 Intern Reference
